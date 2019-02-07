@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/laravel/nexmo-notification-channel" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/laravel/slack-notification-channel" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/nexmo/client" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/composer" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/styde/html" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/laravelcollective/html" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/PrimeraPrueba/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>

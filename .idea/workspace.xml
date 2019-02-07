@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afd97e68-f38f-477d-a08d-befcb610f9d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/prueba/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/prueba/index.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/PrimeraPrueba/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entrenadores/app/Http/Controllers/EntrenadoresController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2130">
+              <caret line="145" column="9" selection-start-line="145" selection-start-column="9" selection-end-line="145" selection-end-column="9" />
+              <folding>
+                <element signature="e#40#68#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/editphoto.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/form.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/show.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/edit.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/layouts/app.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/entrenadores/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/create.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/entrenadores/app/Http/Requests/StoreEntrenadorRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/prueba" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PrimeraPrueba/resources/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/config/database.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/database/migrations/2019_01_09_105918_create_tickets_table.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/app/Http/Controllers/PagesController.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/resources/views/home1.blade.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/resources/views/home2.blade.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/resources/views/master.blade.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/resources/views/shared/navbar.blade.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/app/Http/Requests/TicketFormRequest.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/composer.json" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/resources/views/tickets/create.blade.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/resources/views/tickets/edit.blade.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/resources/views/tickets/index.blade.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/database/migrations/2019_01_21_081640_create_comments_table.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/app/Comment.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/app/Ticket.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/routes/web.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/app/Http/Controllers/CommentsController.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/app/Http/Requests/CommentFormRequest.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/app/Http/Controllers/TicketsController.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/resources/views/tickets/show.blade.php" />
+        <option value="$PROJECT_DIR$/test/tests/Feature/UsersCanCreatePostsTests.php" />
+        <option value="$PROJECT_DIR$/test/app/Http/Controllers/PostsController.php" />
+        <option value="$PROJECT_DIR$/test/resources/views/posts/create.blade.php" />
+        <option value="$PROJECT_DIR$/test/tests/Feature/UserCanCreatePostsTest.php" />
+        <option value="$PROJECT_DIR$/test/tests/Feature/ExampleTest.php" />
+        <option value="$PROJECT_DIR$/test/tests/Feature/USerModuleTest.php" />
+        <option value="$PROJECT_DIR$/test/tests/Feature/UsersModuleTest.php" />
+        <option value="$PROJECT_DIR$/test/routes/web.php" />
+        <option value="$PROJECT_DIR$/entrenadores/resources/views/layaouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/entrenadores/database/migrations/2019_02_03_180312_create_entrenadors_table.php" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/.env" />
+        <option value="$PROJECT_DIR$/PrimeraPrueba/.env.example" />
+        <option value="$PROJECT_DIR$/entrenadores/.env" />
+        <option value="$PROJECT_DIR$/entrenadores/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/entrenadores/database/migrations/2019_02_04_114853_add_avatar_to_entrenador_table.php" />
+        <option value="$PROJECT_DIR$/entrenadores/config/filesystems.php" />
+        <option value="$PROJECT_DIR$/entrenadores/database/migrations/2019_02_04_223202_add_slug_to__entrenadores.php" />
+        <option value="$PROJECT_DIR$/entrenadores/database/migrations/2019_02_04_223928_add_slug_to_trainers.php" />
+        <option value="$PROJECT_DIR$/entrenadores/config/app.php" />
+        <option value="$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/form.blade.php" />
+        <option value="$PROJECT_DIR$/entrenadores/app/Entrenador.php" />
+        <option value="$PROJECT_DIR$/entrenadores/database/migrations/2019_02_06_124856_add_descripcion_to_trainers.php" />
+        <option value="$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/index.blade.php" />
+        <option value="$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/edit.blade.php" />
+        <option value="$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/create.blade.php" />
+        <option value="$PROJECT_DIR$/entrenadores/app/Http/Requests/StoreEntrenadorRequest.php" />
+        <option value="$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/show.blade.php" />
+        <option value="$PROJECT_DIR$/entrenadores/app/Http/Controllers/EntrenadoresController.php" />
+        <option value="$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/editphoto.blade.php" />
+        <option value="$PROJECT_DIR$/entrenadores/routes/web.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/laravel/nexmo-notification-channel" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/laravel/slack-notification-channel" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/nexmo/client" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/composer" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/styde/html" />
+      <path value="$PROJECT_DIR$/PrimeraPrueba/vendor/laravelcollective/html" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="317" />
+    <option name="y" value="27" />
+    <option name="width" value="943" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="primer_Proyecto_Laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primer_Proyecto_Laravel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primer_Proyecto_Laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primer_Proyecto_Laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="entrenadores" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primer_Proyecto_Laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primer_Proyecto_Laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="entrenadores" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primer_Proyecto_Laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primer_Proyecto_Laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="entrenadores" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primer_Proyecto_Laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primer_Proyecto_Laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="entrenadores" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primer_Proyecto_Laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primer_Proyecto_Laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="entrenadores" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primer_Proyecto_Laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primer_Proyecto_Laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="entrenadores" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primer_Proyecto_Laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primer_Proyecto_Laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="entrenadores" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primer_Proyecto_Laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primer_Proyecto_Laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="entrenadores" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primer_Proyecto_Laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primer_Proyecto_Laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="entrenadores" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="Entrenadores" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="primer_Proyecto_Laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="primer_Proyecto_Laravel" type="462c0819:PsiDirectoryNode" />
+              <item name="entrenadores" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/tests/Feature" />
+      <recent name="$PROJECT_DIR$/test/tests/Unit" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/entrenadores/public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afd97e68-f38f-477d-a08d-befcb610f9d2" name="Default Changelist" comment="" />
+      <created>1544692846961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544692846961</updated>
+      <workItem from="1544692848082" duration="37000" />
+      <workItem from="1544784437956" duration="6749000" />
+      <workItem from="1545032240793" duration="3624000" />
+      <workItem from="1545045199224" duration="1136000" />
+      <workItem from="1547026775626" duration="3699000" />
+      <workItem from="1547106049163" duration="2642000" />
+      <workItem from="1547109649772" duration="1916000" />
+      <workItem from="1547192645481" duration="504000" />
+      <workItem from="1547203329188" duration="3468000" />
+      <workItem from="1547451973701" duration="788000" />
+      <workItem from="1547453071431" duration="1450000" />
+      <workItem from="1547464929470" duration="599000" />
+      <workItem from="1547542548165" duration="6000" />
+      <workItem from="1547571711324" duration="269000" />
+      <workItem from="1547624269035" duration="91000" />
+      <workItem from="1547630036947" duration="3164000" />
+      <workItem from="1547710996679" duration="5700000" />
+      <workItem from="1547723496169" duration="137000" />
+      <workItem from="1547797450906" duration="70000" />
+      <workItem from="1547810031629" duration="5805000" />
+      <workItem from="1548056517226" duration="4925000" />
+      <workItem from="1548267393129" duration="58000" />
+      <workItem from="1548317329364" duration="4368000" />
+      <workItem from="1548321995100" duration="722000" />
+      <workItem from="1548333917447" duration="403000" />
+      <workItem from="1548414980225" duration="5784000" />
+      <workItem from="1548666720628" duration="637000" />
+      <workItem from="1548671864312" duration="69000" />
+      <workItem from="1548841213798" duration="4177000" />
+      <workItem from="1548847333515" duration="113000" />
+      <workItem from="1548872646104" duration="386000" />
+      <workItem from="1548923152608" duration="2232000" />
+      <workItem from="1548926161969" duration="29000" />
+      <workItem from="1549007177502" duration="53000" />
+      <workItem from="1549018658197" duration="2281000" />
+      <workItem from="1549212571041" duration="7922000" />
+      <workItem from="1549266126995" duration="2941000" />
+      <workItem from="1549278981667" duration="6188000" />
+      <workItem from="1549317457180" duration="3569000" />
+      <workItem from="1549357573393" duration="516000" />
+      <workItem from="1549370916779" duration="19000" />
+      <workItem from="1549383304941" duration="1244000" />
+      <workItem from="1549384577504" duration="2575000" />
+      <workItem from="1549449548071" duration="2916000" />
+      <workItem from="1549457149772" duration="2350000" />
+      <workItem from="1549464652314" duration="4628000" />
+      <workItem from="1549479580454" duration="288000" />
+      <workItem from="1549541438083" duration="393000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="103640000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36472467" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24937344" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32990575" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.46448523" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/app/Http/Requests/TicketFormRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/resources/views/tickets/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/config/mail.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/database/migrations/2019_01_21_081640_create_comments_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding>
+            <element signature="e#7#45#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/app/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/app/Http/Controllers/CommentsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="78" selection-start-line="17" selection-start-column="78" selection-end-line="17" selection-end-column="78" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/app/Http/Requests/CommentFormRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/resources/views/tickets/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/tests/Feature/UsersCanCreatePostsTests.php" />
+    <entry file="file://$PROJECT_DIR$/test/app/Http/Controllers/PostsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/tests/Feature/UserCanCreatePostsTest.php" />
+    <entry file="file://$PROJECT_DIR$/test/tests/Feature/USerModuleTest.php" />
+    <entry file="file://$PROJECT_DIR$/test/storage/logs/laravel-2019-01-31.log" />
+    <entry file="file://$PROJECT_DIR$/test/storage/logs/laravel-2019-01-30.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="361">
+          <caret line="51" column="172" selection-start-line="51" selection-start-column="172" selection-end-line="56" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/tests/Feature/ExampleTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/tests/Feature/UsersModuleTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/resources/views/tickets/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/resources/views/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/resources/views/contact.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="55" selection-start-line="86" selection-start-column="55" selection-end-line="86" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/public/dist/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/app/Ticket.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-945" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/resources/views/posts/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-789" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/config/filesystems.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/database/migrations/2019_02_04_223202_add_slug_to__entrenadores.php" />
+    <entry file="file://$PROJECT_DIR$/entrenadores/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="226" column="44" selection-start-line="226" selection-start-column="44" selection-end-line="226" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/app/Http/Controllers/TicketsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="25" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/database/migrations/2019_02_03_180312_create_entrenadors_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="e#7#45#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/database/migrations/2019_02_04_114853_add_avatar_to_entrenador_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/database/migrations/2019_02_04_223928_add_slug_to_trainers.php" />
+    <entry file="file://$PROJECT_DIR$/PrimeraPrueba/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/database/migrations/2019_02_06_124856_add_descripcion_to_trainers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/app/Entrenador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/app/Http/Controllers/EntrenadoresController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2130">
+          <caret line="145" column="9" selection-start-line="145" selection-start-column="9" selection-end-line="145" selection-end-column="9" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/editphoto.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/form.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/resources/views/Entrenadores/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/app/Http/Requests/StoreEntrenadorRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entrenadores/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
